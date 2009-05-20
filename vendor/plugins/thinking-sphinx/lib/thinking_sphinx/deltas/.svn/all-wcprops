@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/lib/thinking_sphinx/deltas
+END
+default_delta.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/lib/thinking_sphinx/deltas/default_delta.rb
+END
+delayed_delta.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/lib/thinking_sphinx/deltas/delayed_delta.rb
+END
+datetime_delta.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/lib/thinking_sphinx/deltas/datetime_delta.rb
+END

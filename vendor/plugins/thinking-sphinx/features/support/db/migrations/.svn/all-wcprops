@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/db/migrations
+END
+create_betas.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/db/migrations/create_betas.rb
+END
+create_tags.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/db/migrations/create_tags.rb
+END
+create_boxes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/db/migrations/create_boxes.rb
+END
+create_animals.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/db/migrations/create_animals.rb
+END
+create_people.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/db/migrations/create_people.rb
+END
+create_comments.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/db/migrations/create_comments.rb
+END
+create_delayed_betas.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/db/migrations/create_delayed_betas.rb
+END
+create_gammas.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/db/migrations/create_gammas.rb
+END
+create_alphas.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/db/migrations/create_alphas.rb
+END
+create_developers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/db/migrations/create_developers.rb
+END
+create_posts.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/db/migrations/create_posts.rb
+END
+create_thetas.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/db/migrations/create_thetas.rb
+END

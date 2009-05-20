@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/vendor/after_commit
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/vendor/after_commit/LICENSE
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/vendor/after_commit/Rakefile
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/vendor/after_commit/.gitignore
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/vendor/after_commit/init.rb
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/vendor/after_commit/README
+END

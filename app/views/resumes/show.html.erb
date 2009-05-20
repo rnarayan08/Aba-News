@@ -1,0 +1,28 @@
+<p>
+  <b>Title:</b>
+  <%= @resume.title %>
+</p>
+
+<p>
+  <b>Skills:</b>
+  <%=h @resume.skills %>
+</p>
+
+<p>
+  <b>Experience:</b>
+  <%=h @resume.experience %>
+</p>
+
+<p>
+  <b>Summary:</b>
+  <%=h @resume.summary %>
+</p>
+
+<p>
+  <b>Cv:</b>
+  <%=h @resume.cv %>
+</p>
+
+
+<%= link_to 'Edit', edit_resume_path(@resume) %> |
+<%= link_to 'Back', resumes_path %>

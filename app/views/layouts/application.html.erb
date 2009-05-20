@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+  <title>aba | Association of Bhutanese in America</title>
+  <%= stylesheet_link_tag 'application' %>
+    <%= include_tiny_mce_if_needed %>
+    <%= javascript_include_tag 'prototype.js' %>
+</head>
+<body>
+<div id="logo_area">
+	<%= render :partial=>"articles/logo" %>
+</div>
+<div id="left_sidebar"> 
+	<%=render :partial=>"articles/left_sidebar" %>
+</div>
+<div id="right_sidebar">
+	<%# =render :partial=>"articles/right_sidebar" ,:object=>@feed
+</div>
+<div id="container">
+	<div id="error_area"><%= flash[:error] %></div>
+			<div id='search_region'>
+			<%= render:partial=>"articles/search" %>
+		</div>
+	<div id="content"> 
+		<%= yield  %> 
+	</div>
+</div>
+</body>
+</html>

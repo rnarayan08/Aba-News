@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/tasks
+END
+testing.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/tasks/testing.rb
+END
+distribution.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/tasks/distribution.rb
+END
+rails.rake
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/tasks/rails.rake
+END

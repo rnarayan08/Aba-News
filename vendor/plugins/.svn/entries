@@ -1,0 +1,41 @@
+9
+
+dir
+12
+https://192.168.1.100:8443/svn/abanews/trunk/vendor/plugins
+https://192.168.1.100:8443/svn/abanews
+
+
+
+2009-03-04T19:35:52.712000Z
+12
+Rup
+has-props
+
+svn:special svn:externals svn:needs-lock
+svn:externals
+
+
+
+
+
+
+
+
+
+
+754e2b5c-a2b6-5946-93f5-27969765cf83
+
+
+
+
+
+
+0
+
+thinking-sphinx
+dir
+
+tiny_mce
+dir
+

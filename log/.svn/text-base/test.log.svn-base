@@ -1,0 +1,252 @@
+  [4;36;1mSQL (20.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (1.0ms)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `articles` [0m
+
+
+Processing ArticlesController#create (for 0.0.0.0 at 2009-02-06 16:21:14) [POST]
+  Parameters: {"article"=>{}}
+  [4;35;1mSQL (1.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (1.0ms)[0m   [0mSELECT count(*) AS count_all FROM `articles` [0m
+  [4;36;1mArticle Load (0.0ms)[0m   [0;1mSELECT * FROM `articles` WHERE (`articles`.`id` = 953125641) [0m
+
+
+Processing ArticlesController#destroy (for 0.0.0.0 at 2009-02-06 16:21:14) [DELETE]
+  Parameters: {"id"=>"953125641"}
+  [4;35;1mSQL (1.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mArticle Load (1.0ms)[0m   [0mSELECT * FROM `articles` WHERE (`articles`.`id` = 953125641) [0m
+
+
+Processing ArticlesController#edit (for 0.0.0.0 at 2009-02-06 16:21:15) [GET]
+  Parameters: {"id"=>"953125641"}
+  [4;36;1mSQL (0.0ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mBEGIN[0m
+
+
+Processing ArticlesController#index (for 0.0.0.0 at 2009-02-06 16:21:15) [GET]
+  [4;36;1mArticle Load (0.0ms)[0m   [0;1mSELECT * FROM `articles` [0m
+Rendering template within layouts/application
+Rendering articles/index
+  [4;35;1mSQL (1.0ms)[0m   [0mSELECT count(*) AS count_all FROM `comments` WHERE (`comments`.article_id = 953125641) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `comments` WHERE (`comments`.article_id = 996332877) [0m
+Rendered articles/_logo (0.0ms)
+Rendered articles/_left_sidebar (0.0ms)
+Rendered articles/_right_sidebar (6028.0ms)
+Rendered articles/_search (1.0ms)
+Completed in 6358ms (View: 6209, DB: 33) | 200 OK [http://test.host/articles]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing ArticlesController#new (for 0.0.0.0 at 2009-02-06 16:21:21) [GET]
+  [4;35;1mSQL (1.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mArticle Load (1.0ms)[0m   [0mSELECT * FROM `articles` WHERE (`articles`.`id` = 953125641) [0m
+
+
+Processing ArticlesController#show (for 0.0.0.0 at 2009-02-06 16:21:21) [GET]
+  Parameters: {"id"=>"953125641"}
+  [4;36;1mArticle Load (1.0ms)[0m   [0;1mSELECT * FROM `articles` WHERE (`articles`.`id` = 953125641) [0m
+Rendering template within layouts/application
+Rendering articles/show
+  [4;35;1mSQL (1.0ms)[0m   [0mSELECT count(*) AS count_all FROM `comments` WHERE (`comments`.article_id = 953125641) [0m
+Rendered comments/_new (2.0ms)
+Rendered articles/_logo (0.0ms)
+Rendered articles/_left_sidebar (0.0ms)
+Rendered articles/_right_sidebar (4644.0ms)
+Rendered articles/_search (1.0ms)
+Completed in 4794ms (View: 4651, DB: 5) | 200 OK [http://test.host/articles/953125641]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mBEGIN[0m
+  [4;36;1mArticle Load (0.0ms)[0m   [0;1mSELECT * FROM `articles` WHERE (`articles`.`id` = 953125641) [0m
+
+
+Processing ArticlesController#update (for 0.0.0.0 at 2009-02-06 16:21:26) [PUT]
+  Parameters: {"article"=>{}, "id"=>"953125641"}
+  [4;35;1mSQL (1.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM `comments` [0m
+
+
+Processing CommentsController#create (for 0.0.0.0 at 2009-02-06 16:21:26) [POST]
+  Parameters: {"comment"=>{}}
+  [4;36;1mSQL (0.0ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `comments` [0m
+  [4;35;1mComment Load (0.0ms)[0m   [0mSELECT * FROM `comments` WHERE (`comments`.`id` = 953125641) [0m
+
+
+Processing CommentsController#destroy (for 0.0.0.0 at 2009-02-06 16:21:26) [DELETE]
+  Parameters: {"id"=>"953125641"}
+  [4;36;1mSQL (1.0ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (1.0ms)[0m   [0mBEGIN[0m
+  [4;36;1mComment Load (1.0ms)[0m   [0;1mSELECT * FROM `comments` WHERE (`comments`.`id` = 953125641) [0m
+
+
+Processing CommentsController#edit (for 0.0.0.0 at 2009-02-06 16:21:26) [GET]
+  Parameters: {"id"=>"953125641"}
+Rendering template within layouts/application
+Rendering comments/edit
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing CommentsController#index (for 0.0.0.0 at 2009-02-06 16:21:27) [GET]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing CommentsController#new (for 0.0.0.0 at 2009-02-06 16:21:27) [GET]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mComment Load (0.0ms)[0m   [0mSELECT * FROM `comments` WHERE (`comments`.`id` = 953125641) [0m
+
+
+Processing CommentsController#show (for 0.0.0.0 at 2009-02-06 16:21:27) [GET]
+  Parameters: {"id"=>"953125641"}
+  [4;36;1mSQL (0.0ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mBEGIN[0m
+  [4;36;1mComment Load (0.0ms)[0m   [0;1mSELECT * FROM `comments` WHERE (`comments`.`id` = 953125641) [0m
+
+
+Processing CommentsController#update (for 0.0.0.0 at 2009-02-06 16:21:27) [PUT]
+  Parameters: {"id"=>"953125641", "comment"=>{}}
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mBEGIN[0m
+
+
+Processing ArticlesController#index (for 0.0.0.0 at 2009-02-06 16:24:54) [GET]
+  [4;36;1mArticle Load (0.0ms)[0m   [0;1mSELECT * FROM `articles` [0m
+Rendering template within layouts/application
+Rendering articles/index
+  [4;35;1mSQL (1.0ms)[0m   [0mSELECT count(*) AS count_all FROM `comments` WHERE (`comments`.article_id = 953125641) [0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `comments` WHERE (`comments`.article_id = 996332877) [0m
+Rendered articles/_logo (0.0ms)
+Rendered articles/_left_sidebar (0.0ms)
+Rendered articles/_right_sidebar (3855.0ms)
+Rendered articles/_search (1.0ms)
+Completed in 4207ms (View: 3919, DB: 18) | 200 OK [http://test.host/articles]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mArticle Load (0.0ms)[0m   [0mSELECT * FROM `articles` WHERE (`articles`.`id` = 953125641) [0m
+
+
+Processing ArticlesController#show (for 0.0.0.0 at 2009-02-06 16:24:58) [GET]
+  Parameters: {"id"=>"953125641"}
+  [4;36;1mArticle Load (0.0ms)[0m   [0;1mSELECT * FROM `articles` WHERE (`articles`.`id` = 953125641) [0m
+Rendering template within layouts/application
+Rendering articles/show
+  [4;35;1mSQL (1.0ms)[0m   [0mSELECT count(*) AS count_all FROM `comments` WHERE (`comments`.article_id = 953125641) [0m
+Rendered comments/_new (3.0ms)
+Rendered articles/_logo (0.0ms)
+Rendered articles/_left_sidebar (0.0ms)
+Rendered articles/_right_sidebar (3921.0ms)
+Rendered articles/_search (0.0ms)
+Completed in 4123ms (View: 3929, DB: 1) | 200 OK [http://test.host/articles/953125641]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `comments` [0m
+
+
+Processing CommentsController#create (for 0.0.0.0 at 2009-02-06 16:25:02) [POST]
+  Parameters: {"comment"=>{}}
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing CommentsController#index (for 0.0.0.0 at 2009-02-06 16:25:02) [GET]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing CommentsController#new (for 0.0.0.0 at 2009-02-06 16:25:02) [GET]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `articles` [0m
+
+
+Processing ArticlesController#create (for 0.0.0.0 at 2009-02-13 12:56:44) [POST]
+  Parameters: {"article"=>{}}
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM `articles` [0m
+  [4;36;1mArticle Load (37.0ms)[0m   [0;1mSELECT * FROM `articles` WHERE (`articles`.`id` = 953125641) [0m
+
+
+Processing ArticlesController#destroy (for 0.0.0.0 at 2009-02-13 12:56:44) [DELETE]
+  Parameters: {"id"=>"953125641"}
+  [4;35;1mSQL (1.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mArticle Load (0.0ms)[0m   [0mSELECT * FROM `articles` WHERE (`articles`.`id` = 953125641) [0m
+
+
+Processing ArticlesController#edit (for 0.0.0.0 at 2009-02-13 12:56:45) [GET]
+  Parameters: {"id"=>"953125641"}
+  [4;36;1mSQL (0.0ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mBEGIN[0m
+
+
+Processing ArticlesController#index (for 0.0.0.0 at 2009-02-13 12:56:45) [GET]
+  [4;36;1mArticle Load (0.0ms)[0m   [0;1mSELECT * FROM `articles` [0m
+Rendering template within layouts/application
+Rendering articles/index
+  [4;35;1mSQL (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM `comments` WHERE (`comments`.article_id = 953125641) [0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT count(*) AS count_all FROM `comments` WHERE (`comments`.article_id = 996332877) [0m
+Rendered articles/_logo (10.0ms)
+Rendered articles/_left_sidebar (0.0ms)
+Rendered articles/_right_sidebar (6125.0ms)
+Rendered articles/_search (1.0ms)
+Completed in 6418ms (View: 6278, DB: 64) | 200 OK [http://test.host/articles]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+
+
+Processing ArticlesController#new (for 0.0.0.0 at 2009-02-13 12:56:52) [GET]
+  [4;35;1mSQL (0.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mArticle Load (0.0ms)[0m   [0mSELECT * FROM `articles` WHERE (`articles`.`id` = 953125641) [0m
+
+
+Processing ArticlesController#show (for 0.0.0.0 at 2009-02-13 12:56:52) [GET]
+  Parameters: {"id"=>"953125641"}
+  [4;36;1mArticle Load (1.0ms)[0m   [0;1mSELECT * FROM `articles` WHERE (`articles`.`id` = 953125641) [0m
+Rendering template within layouts/application
+Rendering articles/show
+  [4;35;1mSQL (0.0ms)[0m   [0mSELECT count(*) AS count_all FROM `comments` WHERE (`comments`.article_id = 953125641) [0m
+Rendered comments/_new (2.0ms)
+Rendered articles/_logo (0.0ms)
+Rendered articles/_left_sidebar (0.0ms)
+Rendered articles/_right_sidebar (4929.0ms)
+Rendered articles/_search (1.0ms)
+Completed in 5138ms (View: 4938, DB: 1) | 200 OK [http://test.host/articles/953125641]
+  [4;36;1mSQL (1.0ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mBEGIN[0m
+  [4;36;1mArticle Load (0.0ms)[0m   [0;1mSELECT * FROM `articles` WHERE (`articles`.`id` = 953125641) [0m
+
+
+Processing ArticlesController#update (for 0.0.0.0 at 2009-02-13 12:56:57) [PUT]
+  Parameters: {"article"=>{}, "id"=>"953125641"}
+  [4;35;1mSQL (1.0ms)[0m   [0mROLLBACK[0m

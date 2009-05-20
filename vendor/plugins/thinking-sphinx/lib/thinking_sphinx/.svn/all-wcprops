@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/lib/thinking_sphinx
+END
+facet_collection.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/lib/thinking_sphinx/facet_collection.rb
+END
+facet.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/lib/thinking_sphinx/facet.rb
+END
+field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/lib/thinking_sphinx/field.rb
+END
+attribute.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/lib/thinking_sphinx/attribute.rb
+END
+tasks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/lib/thinking_sphinx/tasks.rb
+END
+search.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/lib/thinking_sphinx/search.rb
+END
+configuration.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/lib/thinking_sphinx/configuration.rb
+END
+index.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/lib/thinking_sphinx/index.rb
+END
+rails_additions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/lib/thinking_sphinx/rails_additions.rb
+END
+active_record.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/lib/thinking_sphinx/active_record.rb
+END
+collection.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/lib/thinking_sphinx/collection.rb
+END
+deltas.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/lib/thinking_sphinx/deltas.rb
+END
+association.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/lib/thinking_sphinx/association.rb
+END

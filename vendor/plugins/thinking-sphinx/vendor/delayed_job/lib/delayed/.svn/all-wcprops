@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/vendor/delayed_job/lib/delayed
+END
+performable_method.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/vendor/delayed_job/lib/delayed/performable_method.rb
+END
+worker.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/vendor/delayed_job/lib/delayed/worker.rb
+END
+job.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/vendor/delayed_job/lib/delayed/job.rb
+END
+message_sending.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/vendor/delayed_job/lib/delayed/message_sending.rb
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx
+END
+contribute.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/contribute.rb
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/Rakefile
+END
+LICENCE
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/LICENCE
+END
+ginger_scenarios.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/ginger_scenarios.rb
+END
+thinking-sphinx.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/thinking-sphinx.gemspec
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/.gitignore
+END
+cucumber.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/cucumber.yml
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/init.rb
+END
+README.textile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/README.textile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/README
+END

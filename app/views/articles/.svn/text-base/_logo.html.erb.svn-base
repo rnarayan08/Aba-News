@@ -1,0 +1,1 @@
+<%=image_tag 'aba-logo.jpg',:id=>'logo'%>

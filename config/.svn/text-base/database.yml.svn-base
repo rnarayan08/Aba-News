@@ -1,0 +1,20 @@
+development:
+  adapter: mysql
+  database: aba_development
+  username: root
+  password: root
+  host: localhost
+  
+test:
+  adapter: mysql
+  database: aba_test
+  username: root
+  password: root
+  host: localhost
+  
+production:
+  adapter: mysql
+  database: aba_production
+  username: root
+  password: root
+  host: localhost

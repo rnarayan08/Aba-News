@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/abanews/!svn/ver/8/trunk/vendor/plugins/tiny_mce
+END
+CHANGELOG_TINYMCE
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/abanews/!svn/ver/8/trunk/vendor/plugins/tiny_mce/CHANGELOG_TINYMCE
+END
+SPELLCHECKING_PLUGIN.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/abanews/!svn/ver/8/trunk/vendor/plugins/tiny_mce/SPELLCHECKING_PLUGIN.rdoc
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/abanews/!svn/ver/8/trunk/vendor/plugins/tiny_mce/Rakefile
+END
+tiny_mce_options.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/abanews/!svn/ver/8/trunk/vendor/plugins/tiny_mce/tiny_mce_options.yml
+END
+README.rdoc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/abanews/!svn/ver/8/trunk/vendor/plugins/tiny_mce/README.rdoc
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/abanews/!svn/ver/8/trunk/vendor/plugins/tiny_mce/.gitignore
+END
+CHANGELOG_PLUGIN
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/abanews/!svn/ver/8/trunk/vendor/plugins/tiny_mce/CHANGELOG_PLUGIN
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/abanews/!svn/ver/8/trunk/vendor/plugins/tiny_mce/init.rb
+END
+install.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/abanews/!svn/ver/8/trunk/vendor/plugins/tiny_mce/install.rb
+END

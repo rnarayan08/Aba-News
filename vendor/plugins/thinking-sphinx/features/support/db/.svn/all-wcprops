@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/db
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/db/.gitignore
+END
+postgresql.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/db/postgresql.rb
+END
+mysql.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/db/mysql.rb
+END
+active_record.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/db/active_record.rb
+END
+database.example.yml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/db/database.example.yml
+END

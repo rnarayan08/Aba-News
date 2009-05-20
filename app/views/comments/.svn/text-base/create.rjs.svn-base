@@ -1,0 +1,4 @@
+page.insert_html :bottom, 'comments_region', :partial=>'show', :object=>@comment;
+page.replace_html 'comments_count', pluralize(@article.comments.size, 'Comment');
+page.replace_html 'notice','Thank you for the comment';
+page["new_comment"].reset;

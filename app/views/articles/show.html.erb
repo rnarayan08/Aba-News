@@ -1,0 +1,26 @@
+<p>
+<b>
+  <%=h @article.title %> <br>
+  <div class='created_at'>
+  	Created at:<%=@article.created_at %>
+  </div>
+ </b>
+</p>
+
+<p>
+<div id="article_body">
+  &nbsp;&nbsp; <%=h @article.body %>
+</div>
+</p>
+<h3>
+<div id='notice'>
+</div>
+<div id="comments_count">
+	<%= pluralize(@article.comments.size, 'Comment') %>
+</div>
+</h3>
+<div id="comments_region">
+	<%= render :partial=>'comments/show',:collection=>@article.comments%>
+</div>
+
+<%= render :partial=>'comments/new' %>

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/abanews/!svn/ver/2/trunk/test/unit
+END
+comment_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/abanews/!svn/ver/2/trunk/test/unit/comment_test.rb
+END
+article_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/abanews/!svn/ver/2/trunk/test/unit/article_test.rb
+END

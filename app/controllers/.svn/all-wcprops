@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/abanews/!svn/ver/12/trunk/app/controllers
+END
+application.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/abanews/!svn/ver/2/trunk/app/controllers/application.rb
+END
+comments_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/abanews/!svn/ver/12/trunk/app/controllers/comments_controller.rb
+END
+articles_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/abanews/!svn/ver/12/trunk/app/controllers/articles_controller.rb
+END

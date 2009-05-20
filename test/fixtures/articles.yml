@@ -1,0 +1,9 @@
+one:
+  title: News in brief
+  body: News views and reviews covered here
+  label: news-in-brief
+
+two:
+  title: Good news
+  body: This is good news section
+  label: good-news

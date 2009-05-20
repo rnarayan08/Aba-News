@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/abanews/!svn/ver/12/trunk/config
+END
+routes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/abanews/!svn/ver/2/trunk/config/routes.rb
+END
+database.yml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/abanews/!svn/ver/2/trunk/config/database.yml
+END
+boot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/abanews/!svn/ver/2/trunk/config/boot.rb
+END
+environment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/abanews/!svn/ver/7/trunk/config/environment.rb
+END
+development.sphinx.conf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/abanews/!svn/ver/12/trunk/config/development.sphinx.conf
+END

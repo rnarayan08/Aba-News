@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/spec/unit/thinking_sphinx
+END
+attribute_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/spec/unit/thinking_sphinx/attribute_spec.rb
+END
+field_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/spec/unit/thinking_sphinx/field_spec.rb
+END
+search_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/spec/unit/thinking_sphinx/search_spec.rb
+END
+configuration_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/spec/unit/thinking_sphinx/configuration_spec.rb
+END
+index_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/spec/unit/thinking_sphinx/index_spec.rb
+END
+active_record_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/spec/unit/thinking_sphinx/active_record_spec.rb
+END
+collection_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/spec/unit/thinking_sphinx/collection_spec.rb
+END
+association_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/spec/unit/thinking_sphinx/association_spec.rb
+END

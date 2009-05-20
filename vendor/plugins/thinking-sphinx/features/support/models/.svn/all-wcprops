@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/models
+END
+animal.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/models/animal.rb
+END
+comment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/models/comment.rb
+END
+delayed_beta.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/models/delayed_beta.rb
+END
+gamma.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/models/gamma.rb
+END
+alpha.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/models/alpha.rb
+END
+developer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/models/developer.rb
+END
+post.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/models/post.rb
+END
+theta.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/models/theta.rb
+END
+person.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/models/person.rb
+END
+cat.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/models/cat.rb
+END
+box.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/models/box.rb
+END
+beta.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/models/beta.rb
+END
+tag.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/support/models/tag.rb
+END

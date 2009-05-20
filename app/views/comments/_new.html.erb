@@ -1,0 +1,18 @@
+<h3>New comment:</h3>
+
+<%form_remote_for :comment,:update=>'nil',:before=>%(Element.show('spinner')),:success=>%(Element.hide('spinner')),:url=> article_comments_path(@article),:html=>{:method=>'post',:name=>'new_comment'} do |f| %>
+  <%=image_tag 'spinner.gif',:id=>'spinner',:style=>'display:none'%>
+  <%= f.error_messages %>
+  <p>
+    <%= f.label :name %><br />
+    <%= f.text_field :name %>
+  </p>
+  <p>
+    <%= f.label :body %><br />
+    <%= f.text_area :body, :class =>"mceEditor" %>
+  </p>
+  <p>
+    <%= submit_tag "Create" %>
+  </p>
+<% end %>
+

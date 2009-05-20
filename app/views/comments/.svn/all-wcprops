@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/abanews/!svn/ver/12/trunk/app/views/comments
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/abanews/!svn/ver/2/trunk/app/views/comments/edit.html.erb
+END
+create.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/abanews/!svn/ver/10/trunk/app/views/comments/create.rjs
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/abanews/!svn/ver/2/trunk/app/views/comments/index.html.erb
+END
+_new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/abanews/!svn/ver/12/trunk/app/views/comments/_new.html.erb
+END
+_show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/abanews/!svn/ver/8/trunk/app/views/comments/_show.html.erb
+END

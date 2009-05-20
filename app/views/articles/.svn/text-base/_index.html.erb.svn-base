@@ -1,0 +1,21 @@
+<table>
+<%if @articles.blank? %>
+	<tr><td> Search found no results  </td>
+		<td align='right'><%= link_to "Go back" ,articles_path%></td>
+	</tr>
+<%else %>
+	<tr><td> Search results: </td></tr>
+	<% for article in @articles %>
+
+	  <tr>
+	    <td><%=link_to h(article.title), article %>
+	    &nbsp;&nbsp;&nbsp;
+	    <i>(<%= link_to pluralize(article.comments.size, 'Comment'),article %>)</i>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td><%=truncate(h(article.body),200) %></td>
+	   </tr>
+	<% end %>
+<%end%>
+</table>

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/spec/fixtures
+END
+models.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/spec/fixtures/models.rb
+END
+data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/spec/fixtures/data.sql
+END
+database.yml.default
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/spec/fixtures/database.yml.default
+END
+structure.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/spec/fixtures/structure.sql
+END

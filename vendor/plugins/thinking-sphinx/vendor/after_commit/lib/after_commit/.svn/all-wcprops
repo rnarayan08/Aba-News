@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/vendor/after_commit/lib/after_commit
+END
+connection_adapters.rb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/vendor/after_commit/lib/after_commit/connection_adapters.rb
+END
+active_record.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/vendor/after_commit/lib/after_commit/active_record.rb
+END

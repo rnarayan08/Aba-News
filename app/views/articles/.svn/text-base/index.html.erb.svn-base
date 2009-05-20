@@ -1,0 +1,11 @@
+<h2> News Articles </h2>
+<% for article in @articles %>
+    <%=link_to h(article.title), article %>
+    <div class='created_at'> 
+    	<%= link_to pluralize(article.comments.size, 'Comment'),article %><br>    
+  		Created at:<%=article.created_at %>
+  	</div>
+    <div id='article_body'>
+		<%=truncate(h(article.body),200) %>   
+	</div>
+<% end %>

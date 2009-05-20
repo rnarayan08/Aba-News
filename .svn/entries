@@ -1,0 +1,166 @@
+9
+
+dir
+12
+https://192.168.1.100:8443/svn/abanews/trunk
+https://192.168.1.100:8443/svn/abanews
+
+
+
+2009-03-04T19:35:52.712000Z
+12
+Rup
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+754e2b5c-a2b6-5946-93f5-27969765cf83
+
+test
+dir
+
+app
+dir
+
+log
+dir
+
+Rakefile
+file
+
+
+
+
+2009-03-04T20:08:33.363000Z
+5f03fd5154d000e19d70f5b0a14ae19f
+2009-03-04T19:35:52.712000Z
+12
+Rup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+306
+
+.project
+file
+
+
+
+
+2009-03-04T20:08:33.393000Z
+2438e7d4a92b33c5083a56052fa5d10c
+2009-03-04T19:35:52.712000Z
+12
+Rup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+445
+
+db
+dir
+
+spec
+dir
+
+vendor
+dir
+
+README
+file
+
+
+
+
+2009-02-02T22:31:15.156000Z
+0cdf56769f20a2b73a929ac3ba633152
+2009-02-02T21:48:55.445049Z
+2
+Rup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10619
+
+tmp
+dir
+
+script
+dir
+
+doc
+dir
+
+config
+dir
+
+lib
+dir
+
+public
+dir
+

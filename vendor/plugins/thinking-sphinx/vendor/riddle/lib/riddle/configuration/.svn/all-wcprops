@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/vendor/riddle/lib/riddle/configuration
+END
+indexer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/vendor/riddle/lib/riddle/configuration/indexer.rb
+END
+sql_source.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/vendor/riddle/lib/riddle/configuration/sql_source.rb
+END
+source.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/vendor/riddle/lib/riddle/configuration/source.rb
+END
+xml_source.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/vendor/riddle/lib/riddle/configuration/xml_source.rb
+END
+remote_index.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/vendor/riddle/lib/riddle/configuration/remote_index.rb
+END
+section.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/vendor/riddle/lib/riddle/configuration/section.rb
+END
+index.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/vendor/riddle/lib/riddle/configuration/index.rb
+END
+distributed_index.rb
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/vendor/riddle/lib/riddle/configuration/distributed_index.rb
+END
+searchd.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/vendor/riddle/lib/riddle/configuration/searchd.rb
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/step_definitions
+END
+facet_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/step_definitions/facet_steps.rb
+END
+gamma_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/step_definitions/gamma_steps.rb
+END
+alpha_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/step_definitions/alpha_steps.rb
+END
+datetime_delta_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/step_definitions/datetime_delta_steps.rb
+END
+delayed_delta_indexing_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/step_definitions/delayed_delta_indexing_steps.rb
+END
+find_arguments_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/step_definitions/find_arguments_steps.rb
+END
+search_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/step_definitions/search_steps.rb
+END
+cat_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/step_definitions/cat_steps.rb
+END
+common_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/step_definitions/common_steps.rb
+END
+sphinx_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/step_definitions/sphinx_steps.rb
+END
+beta_steps.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/features/step_definitions/beta_steps.rb
+END

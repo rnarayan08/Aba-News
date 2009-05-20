@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/lib/thinking_sphinx/adapters
+END
+abstract_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/lib/thinking_sphinx/adapters/abstract_adapter.rb
+END
+postgresql_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/lib/thinking_sphinx/adapters/postgresql_adapter.rb
+END
+mysql_adapter.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/lib/thinking_sphinx/adapters/mysql_adapter.rb
+END

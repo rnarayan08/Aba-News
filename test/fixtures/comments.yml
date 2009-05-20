@@ -1,0 +1,9 @@
+first:
+  article: one
+  name: First comment
+  body: First comment body
+
+second:
+  article: two
+  name: Second comment
+  body: Second comment body

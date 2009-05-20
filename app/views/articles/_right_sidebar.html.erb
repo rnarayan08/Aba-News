@@ -1,0 +1,24 @@
+<h2> <u>Featured Video</u> </h2>
+<div id='video_region'>
+<object width=200" height="180"><param name="movie" value="http://www.youtube.com/v/mdonpK6i3vw&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/mdonpK6i3vw&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="200" height="180"></embed></object>
+
+</div>
+
+ <div class="feeds">
+  <h3>
+
+	<a href="<%= h @feed.link %>">
+      <%= @feed.title %></a>
+    </h3>
+    <p><%= @feed.description %></p>
+    <% for feed in @feed.items %>
+      <div class="feed_item">
+        <h4>
+          <a href="<%= h feed.link %>"> <%= feed.title %></a>
+        </h4>
+        <p><%= feed.description %></p>
+     </div>
+   <% end %>
+ </div>
+
+ 

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/spec/unit/thinking_sphinx/active_record
+END
+search_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/spec/unit/thinking_sphinx/active_record/search_spec.rb
+END
+delta_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/spec/unit/thinking_sphinx/active_record/delta_spec.rb
+END
+has_many_association_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/abanews/!svn/ver/12/trunk/vendor/plugins/thinking-sphinx/spec/unit/thinking_sphinx/active_record/has_many_association_spec.rb
+END

@@ -1,0 +1,5 @@
+<h1> This is Testing page </h1>
+<%form_tag('test/show') do |f|%>
+	<%=collection_select 'comment',id,Comment.find(:all),:id,:name %>
+	<%=submit_tag 'Submit' %>
+<%end%>
